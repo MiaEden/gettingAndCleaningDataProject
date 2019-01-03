@@ -8,7 +8,7 @@
  
 ## Data Set Information
 
-The data for this project: Human Activity Recognition Using Smartphones Dataset, by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto (Smartlab - Non Linear Complex Systems Laboratory, DITEN - Universit‡ degli Studi di Genova, Genoa, Italy).
+The data for this project: Human Activity Recognition Using Smartphones Dataset, by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto (Smartlab - Non Linear Complex Systems Laboratory, DITEN - Universit√† degli Studi di Genova, Genoa, Italy).
 
 Linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone (link below):
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -88,7 +88,6 @@ The tidy data set variables are described below:
 
 Features | Description |
 | ------ | ------------------------------------------------------ |
-|
 |timeBodyAccelerationMeanX  |Mean of X for Time Body Acceleration|
 |timeBodyGyroscopeMeanY  |Mean of Y for Time Body Gyroscope|
 |timeBodyGyroscopeJerkMeanX |Mean of X for Time Body Gyroscope Jerk |
