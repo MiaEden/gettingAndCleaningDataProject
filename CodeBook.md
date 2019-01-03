@@ -82,7 +82,7 @@ The tidy data set variables are described below:
 
     * source: train or test 
     * volunteerId: an identifier of the subject who carried out the experiment (Subject). Its range is from 1 to 30.
-    * Aativity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+    * activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
     * averageMeasure: average of mean or standard deviation of the measurementby Volunteer Id, Activity and Feature
     * Features:
 
